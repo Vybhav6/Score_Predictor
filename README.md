@@ -50,5 +50,7 @@ Include citations for any external sources, libraries, or tutorials you used dur
 
 
 
-Thank any individuals, resources, platforms or communities that supported me throughout the project.
+Thank any individuals, resources, platforms, or communities that supported me throughout the project.
+
+Demo: https://scorepredictor.streamlit.app/
 
