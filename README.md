@@ -1,5 +1,7 @@
 Building a Cricket Inning Score Predictor using Machine Learning and Streamlit 
+
 Introduction
+
 Predicting the final score of a cricket inning using machine learning techniques. Predicting cricket inning scores through machine learning offers improved team strategies, fan engagement, and data-driven insights. It aids in player performance evaluation, informs betting and fantasy sports decisions, and enhances media coverage and commentary. Despite its value, predictions should be seen as probabilities, considering cricket's dynamic nature and external influences. Technologies Used libraries and Models: Pandas, Numpy, Streamlit, Scikit-learn, XGB, XGBRegressor, Pipeline, Streamlit etc. Environment used: Jupyter Notebook, VScode Dataset and Data Preprocessing Data Collection: Gathering dataset from Kaggle which contains more then 1300+ matches data. Data Cleaning: Cleaning unwanted data columns so that it's become more efficient.
 Data Transformation
  Transform the data to make it more suitable for analysis or modeling. Includes
